@@ -1,0 +1,11 @@
+C:\Users\alexa\source\repos\SwiftyBot\SwiftyBot\bin\Debug\netcoreapp2.0\SwiftyBot.deps.json
+C:\Users\alexa\source\repos\SwiftyBot\SwiftyBot\bin\Debug\netcoreapp2.0\SwiftyBot.runtimeconfig.json
+C:\Users\alexa\source\repos\SwiftyBot\SwiftyBot\bin\Debug\netcoreapp2.0\SwiftyBot.runtimeconfig.dev.json
+C:\Users\alexa\source\repos\SwiftyBot\SwiftyBot\bin\Debug\netcoreapp2.0\SwiftyBot.dll
+C:\Users\alexa\source\repos\SwiftyBot\SwiftyBot\obj\Debug\netcoreapp2.0\SwiftyBot.csprojResolveAssemblyReference.cache
+C:\Users\alexa\source\repos\SwiftyBot\SwiftyBot\obj\Debug\netcoreapp2.0\SwiftyBot.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\SwiftyBot\SwiftyBot\obj\Debug\netcoreapp2.0\SwiftyBot.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\SwiftyBot\SwiftyBot\obj\Debug\netcoreapp2.0\SwiftyBot.AssemblyInfo.cs
+C:\Users\alexa\source\repos\SwiftyBot\SwiftyBot\bin\Debug\netcoreapp2.0\SwiftyBot.pdb
+C:\Users\alexa\source\repos\SwiftyBot\SwiftyBot\obj\Debug\netcoreapp2.0\SwiftyBot.dll
+C:\Users\alexa\source\repos\SwiftyBot\SwiftyBot\obj\Debug\netcoreapp2.0\SwiftyBot.pdb
