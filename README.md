@@ -1,0 +1,2 @@
+# SwiftyBot
+Discord Bot
