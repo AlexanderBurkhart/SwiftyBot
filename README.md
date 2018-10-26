@@ -1,4 +1,4 @@
-# SwiftyBo: Custom Discord Bot
+# SwiftyBot: Custom Discord Bot
 ## Functions
 -creates groups for players
 
