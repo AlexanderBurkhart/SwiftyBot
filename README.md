@@ -4,7 +4,7 @@
 
 -jail users if admin of server
 
--creates custom youtube playist
+-creates and stores custom youtube playists
 
 ### Coming Up
 -more administration tools (reactions from roles, channel announcement management, etc.)
